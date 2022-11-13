@@ -7,6 +7,6 @@ The script uses the libraries pytube and moviepy which need to be pip installed
 
 TODO
 
-Support video file trimming
-Flexible timestamp formats
+Support video file trimming,
+Flexible timestamp formats,
 Provide executable ?
